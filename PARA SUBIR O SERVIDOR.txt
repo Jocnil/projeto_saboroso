@@ -1,0 +1,10 @@
+DENTRO DO CMD
+
+
+C:\Users\jocni\OneDrive\Área de Trabalho\projeto\saboroso
+set DEBUG=saboroso:* & npm start
+
+//aula 185 código de aluno para resolver o problema, mas não resolveu
+ if((req.method === 'POST' )&& (req.path != '/admin/login'))
+
+
